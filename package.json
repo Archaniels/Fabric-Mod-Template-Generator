@@ -1,7 +1,7 @@
 {
   "name": "fabric-mod-template-generator",
   "displayName": "Fabric Mod Template Generator",
-  "description": "A QOL extension that allows you (yes, you!) developers to create a Fabric Minecraft mod",
+  "description": "A QOL extension that allows you (yes, you!) developers to create a Fabric Minecraft mod. This mod is essentially just an extension port of Fabric's official template mod generator that you can find here: (https://fabricmc.net/develop/template/). Since manually using a website and downloading the ZIP file itself is a bit tedious, this extension allows you to create a Fabric mod with some very basic inputs on your code editor.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
