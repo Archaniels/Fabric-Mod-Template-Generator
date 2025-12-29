@@ -1,7 +1,7 @@
 {
   "name": "fabric-mod-template-generator",
   "displayName": "Fabric Mod Template Generator",
-  "description": "A QOL extension that allows you (yes, you!) developers to create a Fabric Minecraft mod ",
+  "description": "A QOL extension that allows you (yes, you!) developers to create a Fabric Minecraft mod",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
@@ -14,8 +14,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "fabric-mod-template-generator.helloWorld",
-        "title": "Hello World"
+        "command": "fabric-mod-template-generator.createMod",
+        "title": "Create New Fabric Mod",
+        "category": "Fabric"
       }
     ]
   },
